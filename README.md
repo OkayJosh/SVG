@@ -9,4 +9,4 @@ Beautiful SVG graphics
 > and enjoy beautifull svg, and `coding`
 
 ### Contribution
-> This work is still underdevelopment, you can contribute to make beautiful **SVG** Available for everyone!
+> This work is still under development, you can contribute as we make beautiful **SVG** Available for everyone!

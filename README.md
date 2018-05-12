@@ -6,7 +6,7 @@ Beautiful SVG graphics
 ### How to use
 ----------------------------------------------
 > No need for installation just clone with `https://github.com/OkayJosh/SVG.git`
-> and enjoy beautifull svg, and `coding`
+> and enjoy beautifull svg, and `coding`.
 
 ### Contribution
-> This work is still under development, you can contribute as we make beautiful **SVG** Available for everyone!
+> This work is still under development, you can contribute as we make beautiful **SVG** Available for everyone! by sending a pull request.

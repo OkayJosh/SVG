@@ -1,3 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-    <polyline points="<points>" />
+    <polyline points="200,60 240,320 310,230 350,60" 
+    fill="lightcyan" fill-opacity="0.7" stroke="darkviolet" stroke-width="25" stroke-opacity="0.5" stroke-linecap="round"/>
 </svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <path d="M 100 200 Q 200 400 300 200"
+    fill="#9FF" fill-opacity="0.5" stroke="blue" stop-opacity="0.5" stroke-linecap="round" stroke-width="15" />
+</svg>

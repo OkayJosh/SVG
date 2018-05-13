@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+    <image
+        xlink:href="../evenodd.svg" 
+        x="340" y="0" width="140px" height="160px"
+        opacity="0.5"/>
+</svg>

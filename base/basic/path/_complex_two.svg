@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <path d="M 100 350 300 100 500 350 z
+    M 250 320 250 220 350 220 350 320 z" fill="none" stroke="black" stroke-width="20" />
+
+    <path d="M 100 550 300 300 500 550 z
+    M 250 520 250 420 350 420 350 520 z" fill="#ff8" stroke="black" stroke-width="15" fill-rule="evenodd" />
+</svg>

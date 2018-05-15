@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink">
     <image
-        xlink:href="../evenodd.svg" 
-        x="340" y="0" width="140px" height="160px"
+        xlink:href="_three.svg" 
+        x="340" y="200" width="500" height="160"
         opacity="0.5"/>
+        //note you link a file from the same folder, still working on the linking from parent folder.
 </svg>

@@ -4,6 +4,6 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
         xlink:href="../_two.svg" 
         x="340" y="200" width="500" height="160" 
         opacity="0.5"/>
-// fixed the issue for linking to an svg file in another folder
-//chears
+<!--> fixed the issue for linking to an svg file in another folder
+chears-->
 </svg>

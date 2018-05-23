@@ -4,5 +4,5 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
         xlink:href="_three.svg" 
         x="340" y="200" width="500" height="160"
         opacity="0.5"/>
-        //note you link a file from the same folder, still working on the linking from parent folder.
+        <!--note you link a file from the same folder, still working on the linking from parent folder.-->
 </svg>

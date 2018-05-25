@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+       <defs>
+        <path id="curve" d="M 10 100 C 200 30 300 250 350 50"/>
+    </defs>
+    <text x="116" y="176" stroke="black" font-size="30" fill="bisque" font-family="arial" >
+        Ground is safe!
+        <tspan x="5">r</tspan>
+        <tspan x="7">o</tspan>
+        <tspan x="9">w</tspan>
+        <tspan x="12">w</tspan>
+        <textPath xlink:href="#curve">
+        Light up the fire of discontent, Why woundn't you?
+        Even the Heavens dazzle with dissatisfaction!
+        </textPath>
+    </text>
+
+</svg>

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg">
+<!-- This example show how line gradient works and adding a twist of transformation on it -->
     <linearGradient  id="r">
         <stop offset="0" stop-color="red"/>   
         <stop offset="1" stop-color="green"/>

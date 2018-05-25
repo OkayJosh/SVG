@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- This example shows how to make a text follow a predefined path-->
        <defs>
         <path id="curve" d="M 10 100 C 200 30 300 250 350 50"/>
     </defs>

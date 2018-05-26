@@ -6,7 +6,7 @@
 
 > Get an headstart with the online [wikipedia page](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
-> **Stay in touch with me** [here](olatunjijoshua.com.ng)
+> **Stay in touch with me** [here](https://olatunjijoshua.com.ng)
 
 ### How to use
 ---

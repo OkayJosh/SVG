@@ -16,7 +16,7 @@
 
 `$ git clone https://github.com/OkayJosh/SVG.git`
 
-> And get assess to beautifull svg, and *coding*.
+> And get access to beautifull svg, and *coding*.
 
 ### Contribution
 ---

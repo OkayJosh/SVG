@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="gray">
+        <stop offset=".20" stop-color="black" stop-opacity="0"/>
+        <stop offset=".21" stop-color="#b83"/>
+        <stop offset=".29" stop-color="#b83"/>
+        <stop offset=".30" stop-color="#black" stop-opacity="0"/>
+        <stop offset=".31" stop-color="#black" stop-opacity="0"/>
+        <stop offset=".39" stop-color="#black" stop-opacity="0"/>
+        <stop offset=".40" stop-color="#b83"/>
+        <stop offset=".41" stop-color="#b83"/>
+        <stop offset=".49" stop-color="#b83"/>
+        <stop offset=".50" stop-color="black"/>
+        <stop offset=".51" stop-color="black"/>
+        <stop offset=".59" stop-color="black"/>
+        <stop offset=".60" stop-color="#b83" stop-opacity="0"/>
+        <stop offset=".61" stop-color="#b83" stop-opacity="0"/>
+        <stop offset=".69" stop-color="#b83" stop-opacity="0"/>
+        <stop offset=".70" stop-color="black"/>
+        <stop offset=".71" stop-color="black"/>
+        <stop offset=".79" stop-color="black"/>
+        <stop offset=".80" stop-color="#b83" stop-opacity="0"/>
+        <stop offset=".81" stop-color="#b83" stop-opacity="0"/> 
+    </linearGradient>
+    <rect width="300" height="300" x="500" y="200" fill="url(#gray)"/>
+</svg>

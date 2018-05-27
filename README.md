@@ -1,5 +1,5 @@
 > # SVG 
->#### Code-Name Asiya
+>#### Code-Name: Asiya
 > ## Beautiful SVG Graphics
 
 * Join me as i learn and explore the world of **S**calable **V**ector **G**raphics.
